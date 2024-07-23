@@ -125,6 +125,7 @@ header {
   display: flex;
   margin-top: 350px;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .child1 {
